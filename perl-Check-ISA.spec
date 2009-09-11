@@ -9,7 +9,7 @@ Summary:	Check::ISA - DWIM, correct checking of an object's class
 Summary(pl.UTF-8):	Check::ISA - DWIM, poprawne sprawdzanie klas obiektów
 Name:		perl-Check-ISA
 Version:	0.04
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
