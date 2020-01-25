@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Check
 %define	pnam	ISA
 Summary:	Check::ISA - DWIM, correct checking of an object's class
